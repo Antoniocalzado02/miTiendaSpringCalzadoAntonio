@@ -24,7 +24,7 @@ CREATE DATABASE miTiendaSpringCalzadoAntonio;
 USE `miTiendaSpringCalzadoAntonio`;
 
 CREATE USER 'CalzadoAntonio'@'%' IDENTIFIED BY 'CalzadoAntonio';
-GRANT ALL PRIVILEGES ON ConstruccionesGuzman.* to 'CalzadoAntonio'@'%';
+GRANT ALL PRIVILEGES ON miTiendaSpringCalzadoAntonio.* to 'CalzadoAntonio'@'%';
 
 -- --------------------------------------------------------
 
