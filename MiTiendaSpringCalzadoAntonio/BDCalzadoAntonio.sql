@@ -196,8 +196,8 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`username`, `pass`, `name`, `email`, `admin`) VALUES
 ('inma', 'd40dbcae0e7088fc4a7e1768cf8771da', 'inma', 'inma@gmail.com', 1),
-('paco', '311020666a5776c57d265ace682dc46d', 'paco', 'paco@gmail.com', 0),
-('pilar', '31c7d084f0460fcde98ee9314fc8ef30', 'pilar', 'pilar@gmail.com', 1);
+('javi', '311020666a5776c57d265ace682dc46d', 'javi', 'javi@gmail.com', 0),
+('antonio', '31c7d084f0460fcde98ee9314fc8ef30', 'antonio', 'antonio@gmail.com', 1);
 
 -- --------------------------------------------------------
 
