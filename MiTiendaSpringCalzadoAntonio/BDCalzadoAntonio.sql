@@ -20,8 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `ConstruccionesGuzman`
 --
-CREATE DATABASE miTiendaSpringGuzmanPilar;
-USE `miTiendaSpringGuzmanPilar`;
+CREATE DATABASE miTiendaSpringCalzadoAntonio;
+USE `miTiendaSpringCalzadoAntonio`;
 
 CREATE USER 'CalzadoAntonio'@'%' IDENTIFIED BY 'CalzadoAntonio';
 GRANT ALL PRIVILEGES ON ConstruccionesGuzman.* to 'CalzadoAntonio'@'%';
